@@ -6,7 +6,7 @@
 
 This project is a modern Full Stack application built with:
 
-- **Frontend**: React + TypeScript + Vite + Tailwind CSS
+- **Frontend**: React + TypeScript + Tailwind CSS
 - **Backend**: Python + Flask
 - **AI**: Google Gemini (gemini-2.5-flash)
 
